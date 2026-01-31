@@ -1,4 +1,6 @@
+<div align="center">
 # Safe Optimal Control using Log Barrier Constrained iLQR
+</div>
 
 **Abhijeet<sup>1</sup>**, and **Suman Chakravorty<sup>1</sup>**
 
