@@ -5,9 +5,14 @@
 <sup>1</sup>Texas A&M University, College Station, Texas, U.S.A.
 
 
----
-### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/abhinir/Box-Constrained-iLQR) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](#video-demo)
----
+<div align="center">
+  <strong><a href="wafr2026_paper.pdf">Paper (PDF)</a></strong>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <strong><a href="https://github.com/abhinir/Box-Constrained-iLQR">Code</a></strong>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <strong><a href="#video-demo">Video</a></strong>
+</div>
+
 
 
 ## Abstract
