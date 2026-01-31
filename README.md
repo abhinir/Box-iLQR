@@ -11,7 +11,9 @@
 ---
 
 ## Abstract
-*PASTE YOUR PAPER'S ABSTRACT HERE. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.*
+This paper presents a constrained iterative Linear Quadratic Regulator (iLQR) framework for nonlinear optimal control problems with box constraints on both states and control inputs. We incorporate logarithmic barrier functions into the stage cost to enforce box constraints (upper and lower bounds on variables), yielding a smooth interior-point formulation that integrates seamlessly with the standard iLQR backward–forward pass. The Hessian contributions from the log barriers are positive definite, preserving and enhancing the positive definiteness of
+the quadratic approximations in iLQR and providing an intrinsic regularization effect that improves numerical stability and convergence. Moreover, since the negative logarithm is convex, the addition of log barrier terms preserves convexity if the cost is already convex. We further analyze how the barrier-augmented iLQR naturally adapts feedback gains near constraint boundaries. In particular, at convergence, the feedback terms associated with saturated control channels go to zero, recovering a purely feedforward behavior whenever control is saturated. Numerical
+examples on constrained nonlinear control problems demonstrate that the proposed method reliably respects box constraints and maintains favorable convergence properties.
 
 <!-- You can add a 'teaser' image from your paper here! -->
 <!-- First, upload the image (e.g., teaser.png) to your repo just like the PDF. -->
