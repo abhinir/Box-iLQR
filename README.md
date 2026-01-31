@@ -14,7 +14,7 @@
 <h2>
     <a href="wafr2026_paper.pdf">Paper (PDF)</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/abhinir/Box-iLQR/Code">Code</a>
+    <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code">Code</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#video-demo">Video</a>
 </h2>
