@@ -41,12 +41,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
   <!-- ROW 1 -->
   <tr style="border: none;">
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/kRjgkPTZJys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 1.</em>
     </td>
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/GFmePDyHEG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 2.</em>
     </td>
@@ -54,12 +54,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
   <!-- ROW 2 -->
   <tr style="border: none;">
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/mD84pGqbik4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 3.</em>
     </td>
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/QGBJvQMlQJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 4.</em>
     </td>
@@ -67,12 +67,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
   <!-- ROW 3 -->
   <tr style="border: none;">
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/2Zl8muy1ZYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 5.</em>
     </td>
     <td style="padding: 10px; border: none;">
-      <iframe width="100%" height="240" src="https://www.youtube.com/embed/YOUR_VIDEO_ID_6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="240" src="https://www.youtube.com/embed/PJ0NKPSZlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <em>Caption describing Video 6.</em>
     </td>
