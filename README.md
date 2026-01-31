@@ -56,12 +56,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/mD84pGqbik4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 3.</em>
+      <em>Cartpole swing-up without any constraints.</em>
     </td>
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/QGBJvQMlQJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 4.</em>
+      <em>Cart-pole swing-up with state and control constraints (-2 < u < 2 and -0.2 < x_1 < 0.2).</em>
     </td>
   </tr>
   <!-- ROW 3 -->
@@ -69,12 +69,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/2Zl8muy1ZYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 5.</em>
+      <em>Acrobot swing-up without any constraints.</em>
     </td>
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/4PJ0NKPSZlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 6.</em>
+      <em>Acrobot swing-up with control constraints : -5 < u < 5.</em>
     </td>
   </tr>
 </table>
