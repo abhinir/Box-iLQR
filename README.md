@@ -43,12 +43,12 @@ examples on constrained nonlinear control problems demonstrate that the proposed
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/kRjgkPTZJys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 1.</em>
+      <em>Pendulum swing-up without any constraints.</em>
     </td>
     <td style="padding: 10px; border: none;">
       <iframe width="100%" height="240" src="https://www.youtube.com/embed/GFmePDyHEG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Caption describing Video 2.</em>
+      <em>Pendulum swing-up with actuation constraints: -1 < u < 1 .</em>
     </td>
   </tr>
   <!-- ROW 2 -->
