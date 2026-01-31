@@ -6,7 +6,7 @@
 
 ---
 
-### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/abhinir/Box-Constrained-iLQR) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](https://youtu.be/4PJ0NKPSZlY)
+### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/abhinir/Box-Constrained-iLQR) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](#Demo)(https://youtu.be/4PJ0NKPSZlY)
 
 ---
 
@@ -24,7 +24,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 ---
 
 <a name="video-demo"></a>
-## Video Demo
+## Demo
 
 <!-- Paste your YouTube embed code here. Centered for a clean look. -->
 <div align="center">
