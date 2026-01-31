@@ -6,7 +6,7 @@
 
 ---
 
-### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/YOUR_USERNAME/YOUR_CODE_REPO) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](#video-demo)
+### [Paper (PDF)](wafr2026_paper.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Code](https://github.com/abhinir/Box-Constrained-iLQR) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Video](#video-demo)
 
 ---
 
