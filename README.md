@@ -39,7 +39,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 ---
 
 <a name="video-demo"></a>
-## Demo
+## Swing-up Tasks for Pendulum, Cart-pole and Acrobot
 <div align="center">
 <!-- The 'width: 400' and 'table-layout: fixed' are the key fixes -->
 <table style="width: 100%; border: none; table-layout: fixed;">
