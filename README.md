@@ -17,6 +17,8 @@
     <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code">Code</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#video-demo">Video</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#snapshots">Snapshots</a>
 </h2>
 </div>
 
