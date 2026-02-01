@@ -94,7 +94,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 <a name="snapshots"></a>
 ## Trajectory comparison using snapshots
 <div align="center">
-  <img src="figure1.png" width="700" alt="A descriptive caption for my image">
+  <img src="pendulum_comp_snapshots.png" width="700" alt="A descriptive caption for my image">
   <br>
   <em>Fig. 1: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
 </div>
