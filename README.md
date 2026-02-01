@@ -93,22 +93,27 @@ examples on constrained nonlinear control problems demonstrate that the proposed
 
 <a name="snapshots"></a>
 ## Trajectory comparison using snapshots
+
 <div align="center">
   <img src="pendulum_comp_snapshots.png" width="800" alt="A descriptive caption for my image">
   <br>
   <em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
 </div>
 
+---
+
 <div align="center">
   <img src="cartpole_comp_snapshots.png" width="800" alt="A descriptive caption for my image">
   <br>
-  <em>Fig. 1: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
+  <em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
 </div>
+
+---
 
 <div align="center">
   <img src="acrobot_comp_snapshots.png" width="800" alt="A descriptive caption for my image">
   <br>
-  <em>Fig. 1: Time-lapse visualization of the acrobot swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
+  <em>Fig. 3: Time-lapse visualization of the acrobot swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
 </div>
 
 ---
