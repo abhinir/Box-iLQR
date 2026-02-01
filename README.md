@@ -69,7 +69,7 @@ examples on constrained nonlinear control problems demonstrate that the proposed
     <td style="padding: 10px; border: none; text-align: center;">
       <iframe width="400" height="240" src="https://www.youtube.com/embed/QGBJvQMlQJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
-      <em>Cart-pole swing-up with state and control constraints (-2 &lt; u &lt; 2 and -0.2 &lt; x_1 &lt; 0.2).</em>
+      <em>Cart-pole swing-up with state and control constraints (-2 &lt; u &lt; 2 and -0.2 &lt; x<sub>1</sub> &lt; 0.2).</em>
     </td>
   </tr>
   <!-- ROW 3 -->
