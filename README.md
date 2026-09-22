@@ -49,7 +49,10 @@ Comparisons with CL-DDP and ALTRO are presented on pendulum, cart-pole, Acrobot,
 ## Supplementary Video
 
 <div align="center">
+<div align="center">
 
+<a href="Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4">
+</a>
 ### [▶ Watch the Box-iLQR Supplementary Video](Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4)
 
 </div>
