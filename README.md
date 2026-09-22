@@ -59,14 +59,22 @@ Comparisons with CL-DDP and ALTRO are presented on pendulum, cart-pole, Acrobot,
 ---
 
 
-<a name="snapshots"></a>
-## Trajectory comparison using snapshots
+<a name="video-demo"></a>
+## Supplementary Video
 
 <div align="center">
-  <img src="pendulum_snapshots.png" width="800" alt="A descriptive caption for my image">
-  <br>
-  <em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with both state and control constraints (red).</em>
+
+<a href="Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4">
+  <img src="cartpole_snapshots.png" width="800" alt="Box-iLQR Supplementary Video">
+</a>
+
+<br>
+
+<em>Click the image to watch Box-iLQR in effect.</em>
+
 </div>
+
+---
 
 ---
 
