@@ -34,7 +34,12 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <div align="center">
 
-### [▶ Watch the Box-iLQR Supplementary Video](Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4)
+<video width="850" controls>
+  <source src="Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br><br>
 
 <em>Supplementary demonstrations of Box-iLQR across the benchmark and uncertainty experiments presented in the paper.</em>
 
@@ -52,7 +57,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) with the constrained trajectory (red).</em>
+<em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) against the constrained trajectory (red).</em>
 
 </div>
 
@@ -66,7 +71,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) with the trajectory subject to state and control constraints (red). Vertical dotted lines denote the state constraint −0.2 < x<sub>1</sub> < 0.2.</em>
+<em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with state and control constraints (red). Vertical dotted lines denote the state constraint −0.2 < x<sub>1</sub> < 0.2.</em>
 
 </div>
 
@@ -80,7 +85,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 3: Time-lapse visualization of the Acrobot swing-up task, comparing the unconstrained trajectory (light blue) with the constrained trajectory (red).</em>
+<em>Fig. 3: Time-lapse visualization of the Acrobot swing-up task, comparing the unconstrained trajectory (light blue) against the constrained trajectory (red).</em>
 
 </div>
 
