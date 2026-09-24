@@ -34,17 +34,9 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <div align="center">
 
-<a href="Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4">
-  <img src="cartpole_snapshots.png" width="800" alt="Box-iLQR Supplementary Video">
-</a>
+### [▶ Watch the Box-iLQR Supplementary Video](Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4)
 
-<br>
-
-**[▶ Watch the Box-iLQR Supplementary Video](Videos/Box_iLQR_supplementary_video_compressed_HQ.mp4)**
-
-<br>
-
-<em>Click the image or the link above to watch the Box-iLQR supplementary video.</em>
+<em>Supplementary demonstrations of Box-iLQR across the benchmark and uncertainty experiments presented in the paper.</em>
 
 </div>
 
@@ -60,7 +52,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) against the constrained trajectory (red).</em>
+<em>Fig. 1: Time-lapse visualization of the pendulum swing-up task, comparing the unconstrained trajectory (light blue) with the constrained trajectory (red).</em>
 
 </div>
 
@@ -74,7 +66,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) against the trajectory with state and control constraints (red). Vertical dotted lines denote the state constraint -0.2 < x<sub>1</sub> < 0.2.</em>
+<em>Fig. 2: Time-lapse visualization of the cart-pole swing-up task, comparing the unconstrained trajectory (light blue) with the trajectory subject to state and control constraints (red). Vertical dotted lines denote the state constraint −0.2 < x<sub>1</sub> < 0.2.</em>
 
 </div>
 
@@ -88,7 +80,7 @@ Box-iLQR achieves convergence comparable to, and in some cases better than, the 
 
 <br>
 
-<em>Fig. 3: Time-lapse visualization of the Acrobot swing-up task, comparing the unconstrained trajectory (light blue) against the constrained trajectory (red).</em>
+<em>Fig. 3: Time-lapse visualization of the Acrobot swing-up task, comparing the unconstrained trajectory (light blue) with the constrained trajectory (red).</em>
 
 </div>
 
@@ -100,12 +92,12 @@ If you use our work, please cite our paper:
 
 ```bibtex
 @misc{abhijeet2026boxilqr,
-    title        = {Safe Optimal Control using Log Barrier Constrained iLQR},
-    author       = {Abhijeet and Suman Chakravorty},
-    year         = {2026},
-    eprint       = {2602.05046},
+    title         = {Safe Optimal Control using Log Barrier Constrained iLQR},
+    author        = {Abhijeet and Suman Chakravorty},
+    year          = {2026},
+    eprint        = {2602.05046},
     archivePrefix = {arXiv},
-    primaryClass = {math.OC},
-    url          = {https://arxiv.org/abs/2602.05046}
+    primaryClass  = {math.OC},
+    url           = {https://arxiv.org/abs/2602.05046}
 }
 ```
