@@ -3,30 +3,24 @@
 <h1>Safe Optimal Control using Log Barrier Constrained iLQR</h1>
 
 <p>
-  <strong>Abhijeet</strong> and <strong>Suman Chakravorty</strong>
+  <strong>Abhijeet</strong> &nbsp;&nbsp;and&nbsp;&nbsp; <strong>Suman Chakravorty</strong>
 </p>
 
 <p>
   Texas A&amp;M University, College Station, Texas, U.S.A.
 </p>
 
-</div>
-
-<hr>
-
-<div align="center">
-
-<h3>
-  <a href="Box_iLQR.pdf">Manuscript (PDF)</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code/New-Code">MATLAB</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/abhinir/Box-iLQR-Python">Python</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#supplementary-video">Video</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#trajectory-comparison-using-snapshots">Snapshots</a>
-</h3>
+<p>
+  <a href="Box_iLQR.pdf"><strong>Paper</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/abhinir/Box-iLQR/tree/main/Code/New-Code"><strong>MATLAB</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/abhinir/Box-iLQR-Python"><strong>Python</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#supplementary-video"><strong>Video</strong></a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trajectory-comparison-using-snapshots"><strong>Snapshots</strong></a>
+</p>
 
 </div>
 
